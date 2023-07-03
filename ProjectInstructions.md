@@ -180,10 +180,11 @@ Stretch goals should not be attempted until previous tickets have been completed
 
 `#U5_05`
 
-- Inclue a `project-details.md` to the **root** directory.
+- Include a `README.md` to the **root** directory.
   - Detail the concept of this project in psuedo code within the document.
   -  **[Pseudo Code Article](https://www.geeksforgeeks.org/how-to-write-a-pseudo-code/)**
   -  Each team member should highlight the portions that they worked through.
+  -  [What is a README file?](https://www.mygreatlearning.com/blog/readme-file/)
 - Create an `index.js` files to route all models.
 - Create an `index.js` files to route all controllers.
 - Create `middleware` functions to handle responses for all routes.
