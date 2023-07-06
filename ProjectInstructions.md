@@ -1,5 +1,8 @@
 # Chat - Server
 
+## Project Rubric
+[Chat Server Rubric](https://docs.google.com/spreadsheets/d/1uoM1RMYPRfJN2VbY81ctmsM_iSUXFbOl8zckN-yv328/edit?usp=sharing)
+
 ## Concept
 Each teammate will take on a aspect of each ticket to complete. As a team, you will both utilize individual branches to build out your versions of each ticket. Once a ticket is built, as a team, you will then need to merge your code into a `main` branch.
 
